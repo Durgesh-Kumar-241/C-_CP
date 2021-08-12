@@ -36,6 +36,7 @@ for(char c: s)
     else ans+=mList.front();
 
 
+    
 }
 
 //cout << "answer " << ans << endl;
